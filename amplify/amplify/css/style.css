@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5,
 .border-2 {
   border-width: 2px; }
 
+
 .text-black {
   color: #000 !important; }
 
@@ -833,6 +834,9 @@ h1, h2, h3, h4, h5,
     font-weight: 900; }
   .footer-section .footer-links li {
     margin-bottom: 10px; }
+
+
+
 
 .process, .service {
   position: relative; }
